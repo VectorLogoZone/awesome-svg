@@ -45,13 +45,23 @@
   * [SVG-Edit](https://github.com/SVG-Edit/svgedit) - open-source JavaScript editor to embed in your app or website
   * [SVG-Morpheus](http://alexk111.github.io/SVG-Morpheus/) - morph from one icon to another
 
+## Compression
+ * svgcleaner [cli](https://github.com/RazrFalcon/svgcleaner) | [GUI](https://github.com/RazrFalcon/svgcleaner-gui) - compresses the most, and much faster than the others
+ * SVGO [cli](https://github.com/svg/svgo) | [web](https://jakearchibald.github.io/svgomg/) - written in JavaScript and plugs into a whole bunch of different build tools.
+ * [scour](https://github.com/scour-project/scour) - Python
+ * [nano](https://vecta.io/nano)
+
+## Can I Use
+
+ * 94.6% [basic support](https://caniuse.com/#feat=svg) - inside an embed or object element
+ * 94.5% [HTML img](https://caniuse.com/#feat=svg-img)
+ * 94.5% [css background](https://caniuse.com/#feat=svg-css)
+ * 94.5% [inline in HTML5](https://caniuse.com/#feat=svg-html5)
+ * 93.9% [filters](https://caniuse.com/#feat=svg-filters)
+ * 88.4% [effects for HTML](https://caniuse.com/#feat=svg)
+ * 88.0% [SMIL animation](https://caniuse.com/#feat=svg-smil) - all except IE
+ * 18.4% [favicons](https://caniuse.com/#feat=link-icon-svg)
+
 ## Other Lists
  * css-tricks' [Compendium of SVG Information](https://css-tricks.com/mega-list-svg-information/) - this site also a ton of [great articles on using SVGs](https://css-tricks.com/tag/svg/)
  * Willian Justen's [awesome-svg](https://github.com/willianjusten/awesome-svg) - not as curated as my awesome list, but still a ton a interesting links
-
-## Compression
- * [svgcleaner](https://github.com/RazrFalcon/svgcleaner) - compresses the most, and much faster than the others, but has problems with
- * [nano](https://vecta.io/nano)
- * [SVGO](https://github.com/svg/svgo) - written in JavaScript and plugs into a whole bunch of different build tools.  Try [SVGOMG](https://jakearchibald.github.io/svgomg/) to play with the settings interactively.
- * scour
-
