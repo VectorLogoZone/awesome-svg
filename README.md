@@ -19,7 +19,7 @@
 ## Conversion Tools
  * [AutoTracer](https://www.autotracer.org/) - convert from raster (JPEG, PNG, GIF) to SVG
  * [svg2raster](https://www.fileformat.info/convert/image/svg2raster.htm) - convert from SVG to PNG
- * [favicon](http://favicon.fileformat.info/) - convert from SVG to ico.  Works great for using an [SVG emoji](https://github.com/FileFormatInfo/awesome-emoji#awesome-images) as a favicon.
+ * [favicon](https://favicon.fileformat.info/) - convert from SVG to ico.  Works great for using an [SVG emoji](https://github.com/FileFormatInfo/awesome-emoji#awesome-images) as a favicon.
  * [iconizr](https://iconizr.com/) - convert a collection of SVGs into a CSS icon kit
  * [font-blast](https://github.com/eugene1g/font-blast) - convert an SVG font into individual SVGs
  * [svg2android](https://inloop.github.io/svg2android/) - convert to Android's VectorDrawable XML format
@@ -33,7 +33,7 @@
   * [icon section on awesome-design](https://github.com/oscarotero/awesome-design#svg-icons)
 
 ## Logos
-[Awesome Logos](https://www.awesomelogos.org/) is the place to find SVG logos.  I am not going to duplicate their list of  [sources](https://www.awesomelogos.org/sources/index.html) and [alternatives](https://www.awesomelogos.org/alternatives/index.html).  
+[Awesome Logos](https://www.awesomelogos.org/) is the place for SVG logos:  A great search engine with the list of [sources](https://www.awesomelogos.org/sources/index.html) and [alternatives](https://www.awesomelogos.org/alternatives/index.html).  
 
 <!-- The ones here have something noteworthy:
  * [VectorLogoZone](https://www.vectorlogo.zone) - uniform layout and free to use (including hot-linking)
