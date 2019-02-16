@@ -1,4 +1,4 @@
-# Awesome SVG [<img alt="SVG Logo" src="favicon.svg" height="90" align="right"/>](https://www.w3.org/Graphics/SVG/)
+# Awesome SVG [<img alt="SVG Logo" src="https://www.vectorlogo.zone/logos/w3_svg/w3_svg-icon.svg" height="90" align="right"/>](https://www.w3.org/Graphics/SVG/)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
