@@ -33,11 +33,7 @@
   * [icon section on awesome-design](https://github.com/oscarotero/awesome-design#svg-icons)
 
 ## Logos
-[Awesome Logos](https://www.awesomelogos.org/) is the place for SVG logos:  A great search engine with the list of [sources](https://www.awesomelogos.org/sources/index.html) and [alternatives](https://www.awesomelogos.org/alternatives/index.html).  
-
-<!-- The ones here have something noteworthy:
- * [VectorLogoZone](https://www.vectorlogo.zone) - uniform layout and free to use (including hot-linking)
- -->
+[LogoSear.ch](https://logosear.ch/) is a great search engine just for logos, with the list of [sources](https://logosear.ch/sources/index.html) and [alternatives](https://logosear.ch/alternatives/index.html).
 
 ## Programming Libraries
  * [D3.js](https://d3js.org/) - generate/manipulate SVGs from JavaScript. A great way to do graphs and diagrams: be sure to check out the [gallery](https://github.com/d3/d3/wiki/Gallery)
